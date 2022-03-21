@@ -1,0 +1,5 @@
+Testcase: edu.umb.cs680.hw01_5.PrimeGeneratorTest
+Test: primesBetween1and10() took 34 milli sec(s)
+Test: primesBetween4and47() took 1 milli sec(s)
+Test: primesBetween20and30() took 0 milli sec(s)
+Tests run: 3, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 53 milli sec(s)
